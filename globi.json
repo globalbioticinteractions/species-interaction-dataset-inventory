@@ -1,4 +1,8 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "citation": "A dataset of interaction datasets."
+  "citation": "A dataset of interaction datasets.",
+  "delimiter": ",",
+  "resources": {
+    "/interactions.tsv": "projects.csv"
+  }
 }
