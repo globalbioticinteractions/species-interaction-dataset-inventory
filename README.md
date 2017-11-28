@@ -1,5 +1,5 @@
-# known-projects
-This project provides a list of known projects and studies that contains interaction data, that may or may not have been made available. The goal of this is to make an inventory of datasets with their species interaction summaries.
+# species-interaction-dataset-inventory
+This project provides a list of known projects and studies that contains interaction data, that may or may not have been made openly accessible. The goal of this is to make an inventory of datasets with their species interaction summaries.
 
 ## data elements
 
@@ -14,7 +14,7 @@ targetTaxonName | Y | Plantae | describes a
 referenceCitation | Y | IABIN Pollinators Thematic Network (IABIN PTN) | citation for specific dataset	
 referenceUrl | N | http://www.biocomp.org.br/iabinptn | link to dataset
 
-The examples above describe a dataset ```IABIN Pollinators Thematic Network (IABIN PTN)``` at http://www.biocomp.org.br/iabinptn that describes Animalia pollinating plants .
+The example above describes a dataset ```IABIN Pollinators Thematic Network (IABIN PTN)``` at http://www.biocomp.org.br/iabinptn that contains interaction records of animal (Animalia) pollinating plants (Plantae) .
 
 For the existing list, please see [interactions.tsv](./interactions.tsv)
 
