@@ -1,8 +1,12 @@
 # species-interaction-dataset-inventory
 This project provides a list of known projects and studies that contains interaction data, that may or may not have been made openly accessible. The goal of this is to make an inventory of datasets with their species interaction summaries.
 
-## data elements
+ * [data elements](#data-elements)
+ * [contribute](#contribute)
+ * [issues](../../issues/)
+ 
 
+## data elements
 To make it easy to find existing interaction datasets without necessarily including all the interaction records,  one or more entries per datasets are provided to capture the nature of the interaction records. Each element includes the following elements.
 
 element name | required | example | description
@@ -22,7 +26,8 @@ For the existing list, please see [interactions.tsv](./interactions.tsv)
 To add to this list, please do one of the following:
 
 1. edit [interactions.tsv](./interactions.tsv), add your entries (in [tab separated values](https://en.wikipedia.org/wiki/Tab-separated_values)) and create a pull request
-2. (if 1. sounds scary) [open an issue](../../issues/new) and include description of datasets containing the information elements above.
-3. (if 1. and 2. sound scary) [send an email](mailto:info@globalbioticinteractions.org) containing the information elements above.
+2. (if 1. sounds scary) edit spreadsheet at https://docs.google.com/spreadsheets/d/1OggvR-Mzox2lt78NNzOc0sEYQQF2UUzPRtHA6Pg-m1Y/ , add your entries.
+2. (if 1., 2. sound scary) [open an issue](../../issues/new) and include description of datasets containing the information elements above.
+3. (if 1., 2., 3. sound scary) [send an email](mailto:info@globalbioticinteractions.org) containing the information elements above.
 
 To be included in http://globalbioticinteractions.org .
