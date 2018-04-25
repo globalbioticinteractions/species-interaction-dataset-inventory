@@ -1,3 +1,3 @@
 sourceTaxonName	interactionTypeId	interactionTypeLabel	targetTaxonName	referenceCitation	referenceUrl
 Insecta	RO:0002455	pollinates	Plantae	IABIN Pollinators Thematic Network (IABIN PTN)	http://www.biocomp.org.br/iabinptn
-Viruses RO:0002556  pathogen of Mammalia  Olival et al. 2017  https://github.com/ecohealthalliance/HP3/blob/master/data/associations.csv
+Viruses	RO:0002556	pathogen of	Mammalia	 Olival et al. 2017	https://github.com/ecohealthalliance/HP3/blob/master/data/associations.csv
