@@ -1,5 +1,5 @@
 # species-interaction-dataset-inventory
-This project provides a list of known projects and studies that contains interaction data, that may or may not have been made openly accessible. The goal of this is to make an inventory of datasets with their species interaction summaries.
+This project provides a list of known projects and studies that contain interaction data, that may or may not have been made openly accessible. The goal of this is to make an inventory of datasets with their species interaction summaries.
 
  * [data elements](#data-elements)
  * [contribute](#contribute)

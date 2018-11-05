@@ -1,5 +1,6 @@
-sourceTaxonName	interactionTypeId	interactionTypeLabel	targetTaxonName	referenceDoi	referenceCitation	referenceUrl
-Insecta	RO:0002455	pollinates	Plantae		IABIN Pollinators Thematic Network (IABIN PTN)	http://www.biocomp.org.br/iabinptn
-Viruses	RO:0002556	pathogen of	Mammalia		 Olival et al. 2017	https://github.com/ecohealthalliance/HP3/blob/master/data/associations.csv
-Eulemur macaco	RO:0002470	eats	Mendoncia cowanii		Magnaghi, E.B. and T.F. Daniel. 2017. Systematics of Mendoncia (Acanthaceae: Thunbergioideae) in the Paleotropics. Proceedings of the California Academy of Sciences 64:37-94.	
-Eulemur rubriventer	RO:0002470	eats	Mendoncia cowanii		Magnaghi, E.B. and T.F. Daniel. 2017. Systematics of Mendoncia (Acanthaceae: Thunbergioideae) in the Paleotropics. Proceedings of the California Academy of Sciences 64:37-94.	
+sourceTaxonName	sourceTaxonId	interactionTypeId	interactionTypeLabel	targetTaxonName	targetTaxonId	targetBodyPartName	targetBodyPartId	referenceDoi	referenceCitation	referenceUrl
+Insecta		RO:0002455	pollinates	Plantae					IABIN Pollinators Thematic Network (IABIN PTN)	http://www.biocomp.org.br/iabinptn
+Viruses		RO:0002556	pathogen of	Mammalia					 Olival et al. 2017	https://github.com/ecohealthalliance/HP3/blob/master/data/associations.csv
+Eulemur macaco		RO:0002470	eats	Mendoncia cowanii					Magnaghi, E.B. and T.F. Daniel. 2017. Systematics of Mendoncia (Acanthaceae: Thunbergioideae) in the Paleotropics. Proceedings of the California Academy of Sciences 64:37-94.	
+Eulemur rubriventer		RO:0002470	eats	Mendoncia cowanii					Magnaghi, E.B. and T.F. Daniel. 2017. Systematics of Mendoncia (Acanthaceae: Thunbergioideae) in the Paleotropics. Proceedings of the California Academy of Sciences 64:37-94.	
+Streptococcus mutans UA159	NCBI:210007	RO:0002556	pathogen of	Homo sapiens	NCBI:9606	tooth	http://purl.obolibrary.org/obo/UBERON_0001091	10.1073/pnas.172501299	Ajdic, D., McShan, W. M., McLaughlin, R. E., Savic, G., Chang, J., Carson, M. B., … Ferretti, J. J. (2002). Genome sequence of Streptococcus mutans UA159, a cariogenic dental pathogen. Proceedings of the National Academy of Sciences, 99(22), 14434–14439. doi:10.1073/pnas.172501299	
