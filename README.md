@@ -14,7 +14,7 @@ element name | required | example | description
 sourceTaxonName | Y | Animalia | describes a starting point of an interaction
 interactionTypeId | N | RO:0002455 | a identifier for the interaction from Relations Ontology (e.g., see http://www.ontobee.org/ontology/RO?iri=http://purl.obolibrary.org/obo/RO_0002556)
 interactionTypeLabel | Y | pollinates | human readable description of the interaction
-targetTaxonName | Y | Plantae | describes a 
+targetTaxonName | Y | Plantae | describes an endpoint (target) of the interaction
 referenceCitation | Y | IABIN Pollinators Thematic Network (IABIN PTN) | citation for specific dataset	
 referenceUrl | N | http://www.biocomp.org.br/iabinptn | link to dataset
 
